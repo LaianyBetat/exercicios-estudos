@@ -1,6 +1,6 @@
 # Exercicios resolvidos e analisados sobre:
-1- Visualizacao de Dados
-2- Time Series
+## 1- Visualizacao de Dados
+## 2- Time Series
 3- Estatistica
 4- Estatistica - Regressao Linear
 5- Projeto Titanic- Regressao Linear - Predicao da Idade
