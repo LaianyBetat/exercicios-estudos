@@ -10,4 +10,4 @@
 ### 9- Reducao de Dimensoes - Dimensionality Reduction
 ### 10- Visao Computacional - YOLO
 ### 11- Processamento de Linguagem Natural - PLN
-### 12- Aprendizagem Reinforcada - Taxi Auto-Dirigivel
+
